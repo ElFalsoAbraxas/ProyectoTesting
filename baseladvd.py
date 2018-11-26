@@ -36,3 +36,6 @@ class basedb(Abstractbase):
                 return('El usuario: {} ,no existe'.format(usr))
 if __name__ == '__main__':
     db=basedb()
+
+
+#.
